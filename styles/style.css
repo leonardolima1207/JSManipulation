@@ -88,3 +88,8 @@ button[type="submit"]{
 
 
 }
+
+table,tr,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
